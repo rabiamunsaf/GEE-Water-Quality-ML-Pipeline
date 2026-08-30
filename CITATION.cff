@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "GEE Water Quality ML Pipeline"
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia Munsaf"
+repository-code: "https://github.com/rabiamunsaf/GEE-Water-Quality-ML-Pipeline"
+date-released: 2026-08-30
