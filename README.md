@@ -135,7 +135,3 @@ A formal citation and DOI will be added to this repository when available.
 SUNY College of Environmental Science and Forestry (SUNY-ESF)
 
 For questions, bug reports, or suggestions, please use the GitHub Issues section of this repository.
-
-## License
-
-License information will be added to this repository.
